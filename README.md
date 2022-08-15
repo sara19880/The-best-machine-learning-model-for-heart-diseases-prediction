@@ -34,7 +34,7 @@
 <!-- CONTACT -->
 ## Contact
 
-Sara Nasser - [ sarah.nsweilam@gmail.com]
+Sara Nasser - [sarah.nsweilam@gmail.com]
 
 
 
