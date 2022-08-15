@@ -3,7 +3,7 @@
   
   </a>
 
-<h3 align="center">The-best-machine-learning-model-for-heart-diseases-prediction</h3>
+<h3 align="center">The Best Machine Learning Model for Heart Diseases Prediction</h3>
 
   <p align="center">
     This project aims to find the best ML model for heart disease dataset using models as KNN,DT,NB,LR.Moreover, using methods to enhance the predication 
